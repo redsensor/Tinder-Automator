@@ -1,0 +1,9 @@
+.idea/
+
+*tutorial_android.iml
+
+target/
+*.class
+*.jar
+*.war
+*.ear
