@@ -1,4 +1,4 @@
-Sample Appium JUnit project
+Sample Appium Tinder Automation
 ---
 
 This contains the source code for running sample [Appium](http://github.com/appium/appium) tests using [JUnit](http://www.junit.org).
